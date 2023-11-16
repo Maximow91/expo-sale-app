@@ -5,6 +5,7 @@
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "ts:check": "tsc",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
